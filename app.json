@@ -1,14 +1,9 @@
 {
-  "name": "Whatsbot",
-  "description": "Modular Userbot for Whatsapp",
-  "repository": "https://github.com/TheWhatsBot/WhatsBot",
-  "logo": "https://telegra.ph/file/96ccad5945c18944c5f15.png",
+  "name": "Whattest",
+  "description": "whattest",
+  "repository": "https://github.com/r1z99/whattestt",
   "keywords": [
-    "whatsbot",
-    "whatsapp-userbot",
-    "whatsapp-bot",
-    "whatsapp-userbot",
-    "whatsapp"
+    "whattest"
   ],
   "stack": "container",
   "env": {
